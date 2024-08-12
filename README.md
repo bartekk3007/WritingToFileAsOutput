@@ -1,2 +1,2 @@
 # WritingToFileAsOutput
-Writing output to a given file in Jva
+Writing output to a given file in Java
